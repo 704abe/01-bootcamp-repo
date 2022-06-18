@@ -1,0 +1,27 @@
+.lesson {
+  background-color: lemonchiffon;
+}
+
+.lesson2 {
+  background-color: grey;
+}
+
+.title {
+  color: darkblue;
+}
+
+#email {
+  background-color: goldenrod;
+}
+
+#github {
+  background-color: lightsteelblue;
+}
+
+#portfolio {
+  background-color: darkorange;
+}
+
+#image {
+  border-radius: 25%;
+}
